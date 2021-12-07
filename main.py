@@ -1,15 +1,8 @@
 import tkinter
 from tkinter import *
 import tkinter.messagebox
-import random
-import requests
-from tkinter import font
-import string
-import os
-import re
 import hashlib
 import pyperclip
-from cryptography.fernet import Fernet
 
 
 def hash1():
