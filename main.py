@@ -5,7 +5,6 @@ import hashlib
 import pyperclip
 
 
-
 def hash1():
     password = entry1.get()
     f = open('Common Passwords', 'a')
